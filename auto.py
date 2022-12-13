@@ -1,7 +1,5 @@
 import os
 
-import os
-
 path = "G:\\new\Friday"
 
 files = os.listdir(path)
